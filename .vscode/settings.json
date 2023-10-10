@@ -1,3 +1,4 @@
 {
-    "debug.console.fontFamily": "Courier New, monospace"
+    "debug.console.fontFamily": "Courier New, monospace",
+    "DockerRun.DisableAutoGenerateConfig": true
 }
