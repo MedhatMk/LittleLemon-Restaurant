@@ -1,4 +1,7 @@
 {
     "debug.console.fontFamily": "Courier New, monospace",
-    "DockerRun.DisableAutoGenerateConfig": true
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "cSpell.words": [
+        "viewsets"
+    ]
 }
