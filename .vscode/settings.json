@@ -2,6 +2,7 @@
     "debug.console.fontFamily": "Courier New, monospace",
     "DockerRun.DisableAutoGenerateConfig": true,
     "cSpell.words": [
+        "djoser",
         "viewsets"
     ]
 }
